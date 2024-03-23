@@ -1,4 +1,4 @@
-«Sportacus» is not just a website; it’s about sports! 
+«Sportacus» is not just a website, it’s about life! 
 
 # About
 Now, many people are engaged in sports. There are also quite a few who want to incorporate sports into their lives. Not everyone has the opportunity to buy memberships at fitness clubs. Therefore, we present to you a unique project called «Sportacus». This website with a map of outdoor sports facilities can help both beginners and experienced athletes. We hope that our project will benefit a large number of people.
