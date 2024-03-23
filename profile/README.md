@@ -13,4 +13,5 @@ For the initial content of the site, we intend to use well-known sports faciliti
 Our team is using services such as YouGile and Notion for project development. You can learn more about our project through the following links:
 
 Notion: https://petite-keeper-162.notion.site/Sportacus-092075ba38574662b29664900b007e1e
+
 YouGile: https://ru.yougile.com/team/808147bdef52/Boogle
