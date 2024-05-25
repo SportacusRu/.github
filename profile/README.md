@@ -15,3 +15,5 @@ Our team is using services such as YouGile and Notion for project development. Y
 Notion: https://petite-keeper-162.notion.site/Sportacus-092075ba38574662b29664900b007e1e
 
 YouGile: https://ru.yougile.com/team/808147bdef52/Boogle
+
+Sportacus: https://sportacus.вебериум.рф
